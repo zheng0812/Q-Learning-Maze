@@ -1,0 +1,25 @@
+        		Action 0(no action) 1(left) 2(right) 3(up) 4(down)
+(down,right)state1		
+(down,left,right)state2
+(left,right)state3
+(down,left,right)state4
+(down,left)state5
+
+(up,down,right)state6
+(up,left)state7
+(up,right)state8
+(up,down,left)state9
+
+(up,down)state10
+(up,down)state11
+
+(up,down,right)state12
+(down,left)state13
+(down,right)state14
+(up,down,left)state15
+
+(up,right)state16
+(up,left,right)state17
+(left,right)state18
+(up,left,right)state19
+(up,left)Gstate20
